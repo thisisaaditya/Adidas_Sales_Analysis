@@ -1,3 +1,5 @@
+This is a hypothetical Project which I had done
+
 In the pursuit of expanding its global presence, Adidas is considering the challenging prospect of entering the North Korean market, a region marked by profound isolation and distinctive economic and political circumstances. Leveraging its reputation for data-driven decision-making, Adidas is embarking on an analytical journey. The project aims to thoroughly analyze historical sales data, capturing the nuances of the present US market, while aligning with the broader strategic objectives of the company. The ultimate goal is to provide actionable insights and a comprehensive assessment of the feasibility of establishing a profitable business presence in North Korea.
 
 Questions
